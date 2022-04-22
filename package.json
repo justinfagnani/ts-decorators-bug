@@ -1,0 +1,16 @@
+{
+  "name": "ts-decorators-bug",
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "typescript": "^4.7.0-dev.20220422"
+  }
+}
